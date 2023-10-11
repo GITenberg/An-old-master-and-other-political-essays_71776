@@ -1,5 +1,8 @@
 _repo: An-old-master-and-other-political-essays_71776
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71776-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Woodrow
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1689
     wikipedia: https://en.wikipedia.org/wiki/Woodrow_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71776#An-old-master-and-other-political-essays
 gutenberg_issued: '2023-10-02'
 identifiers:
   gutenberg: '71776'
